@@ -13,7 +13,7 @@ Un système de recommandation de films intelligent basé sur les préférences d
 ## 🖼️ Aperçu de l’application
 
 ### 🎞️ Détail d’un film et suggestions
-![Détail](./screenshots/movie_detail.png)
+![Détail](image_2025-06-06_073805546.png)
 
 
 
